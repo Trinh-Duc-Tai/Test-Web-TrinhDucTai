@@ -14,7 +14,7 @@
 
 ## Phần 2: Tự luận
 1. Sửa xong code
-2. Đánh giá:
+2. Đánh giá: <br>
   Về phần giao diện:
     - Các khối skill hơi di dít quá. 🙁
     - Màu sắc nền bị rời rạc ko khớp nhau, ko thấy hài hòa, đã dùng màu gradient thì để cả, 
